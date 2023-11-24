@@ -1,0 +1,19 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Programming Languages",
+    "home_page_url": "https://letizialf.github.io/JsonRss/",
+    "feed_url": "https://letizialf.github.io/JsonRss/feed/feed.json",
+    "items": [
+    {
+    "id": "2",
+    "content_text": "Hello, Python!",
+    "url": "https://letizialf.github.io/JsonRss/python.html"
+    },
+    {
+    "id": "1",
+    "content_html": "<p>Hello, Java!</p>",
+    "url": "https://letizialf.github.io/JsonRss/java.html"
+    }
+    ]
+}
+   
